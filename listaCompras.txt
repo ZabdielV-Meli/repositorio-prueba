@@ -10,5 +10,4 @@ Aceite
 Vinagre
 algo mas
 
-
-edicion de forma local
+edicion dentro de github.com
